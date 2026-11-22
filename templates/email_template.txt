@@ -1,0 +1,12 @@
+Hello {{ name }},
+
+This is an automated reminder regarding: {{ task }}.
+
+Department: {{ department }}
+
+Please make sure you complete the required activity or attend the scheduled event.
+
+Reminder ID: {{ reminder_id }}
+
+Thank you,
+Email Automation System

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r-001",
+    "name": "Python Training Reminder",
+    "email": "rahul@example.com",
+    "subject": "Python training starts soon",
+    "message": "Hello Rahul, this is a reminder about the Python training session. Please be ready on time.",
+    "scheduled_at": "2026-11-21T19:30:00",
+    "recurrence": "once",
+    "status": "scheduled"
+  },
+  {
+    "id": "r-002",
+    "name": "Weekly HR Sync",
+    "email": "priya@example.com",
+    "subject": "Weekly HR team sync",
+    "message": "Hello Priya, a reminder for the weekly HR team sync.",
+    "scheduled_at": "2026-11-22T10:00:00",
+    "recurrence": "weekly",
+    "status": "scheduled"
+  },
+  {
+    "id": "r-003",
+    "name": "Sales Follow-up",
+    "email": "aman@example.com",
+    "subject": "Client follow-up reminder",
+    "message": "Hello Aman, please follow up with the client and update the team.",
+    "scheduled_at": "2026-11-23T09:30:00",
+    "recurrence": "once",
+    "status": "scheduled"
+  }
+]

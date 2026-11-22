@@ -1,0 +1,5 @@
+id,email,subject,scheduled_at,recurrence,task
+R001,rahul@example.com,Python Training Reminder,2026-11-21 00:00,once,Python training
+R002,priya@example.com,HR Meeting Reminder,2026-11-21 00:00,daily,HR team meeting
+R003,aman@example.com,Sales Follow-up,2026-11-21 00:00,weekly,Client follow-up
+R004,neha@example.com,Operations Task Reminder,2026-11-21 00:00,once,Operations report

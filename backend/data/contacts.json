@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c-001",
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "department": "Engineering"
+  },
+  {
+    "id": "c-002",
+    "name": "Priya Verma",
+    "email": "priya@example.com",
+    "department": "Human Resources"
+  },
+  {
+    "id": "c-004",
+    "name": "Neha Gupta",
+    "email": "neha@example.com",
+    "department": "Operations"
+  },
+  {
+    "id": "0df14dab-b970-4b4b-8544-716dbc8ac638",
+    "name": "Ayushman",
+    "email": "rupamd20092003@gmail.com",
+    "department": "General"
+  }
+]
